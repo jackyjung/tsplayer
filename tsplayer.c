@@ -1,6 +1,9 @@
 #include <gst/gst.h>
 #include <glib.h>
 
+test
+test1
+test3
 static gboolean bus_call(GstBus *bus, GstMessage *msg, gpointer data) {
 	GMainLoop *loop = (GMainLoop *)data;
 	switch (GST_MESSAGE_TYPE(msg)) {
