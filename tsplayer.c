@@ -1,7 +1,6 @@
 #include <gst/gst.h>
 #include <glib.h>
 
-test3
 test
 test1
 test3
